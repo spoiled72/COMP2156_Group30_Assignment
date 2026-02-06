@@ -1,0 +1,20 @@
+George Brown College and Its Polytechnic Direction
+
+George Brown College is a public college in Toronto that focuses on practical,
+ career-oriented education. The college is known for hands-on learning through labs, 
+ applied projects, and programs designed to prepare students for the workforce rather 
+ than focusing only on theory.
+
+Over time, George Brown has expanded to include applied bachelor’s degrees in areas 
+such as technology, engineering, construction, health sciences, and business. Because 
+of this expansion, the college is often described as a polytechnic, which better reflects 
+the level and applied nature of its programs.
+
+The polytechnic approach combines academic learning with real-world skills, industry 
+partnerships, and applied research. This helps ensure that students graduate with 
+experience using current tools and technologies that are relevant to their field.
+
+For technology programs like Computer Systems Technology and courses such as DevOps 
+for System Administration, this model is especially important. These programs rely 
+heavily on hands-on labs, system configuration, and practical problem solving, which 
+aligns well with the polytechnic style of education.
