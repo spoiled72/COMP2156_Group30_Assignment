@@ -5,3 +5,10 @@ Traditional SDLC models include stages such as planning, analysis, design, imple
 
 DevOps integrates into the SDLC by promoting continuous collaboration between development and operations teams.
 Instead of treating deployment and maintenance as separate phases, DevOps creates a continuous feedback loop that improves efficiency and system reliability.
+
+Testing and Quality Assurance
+
+In the SDLC, the testing phase ensures that software functions correctly and meets specified requirements. Traditional models treat testing as a final stage before deployment.
+
+DevOps transforms testing into a continuous process by integrating automated tests within CI/CD pipelines. 
+This allows teams to detect issues early, reduce deployment risks, and maintain consistent software quality throughout development.
