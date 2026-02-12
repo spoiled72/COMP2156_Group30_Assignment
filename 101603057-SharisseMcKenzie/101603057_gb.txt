@@ -12,5 +12,11 @@ As a student in the Computer Systems Technology program, George Brown College ha
 The focus on applied learning prepares students not only to understand concepts, but to implement them in real-world environments using tools such as Git, GitHub, virtualization software, and automation technologies.
 
 
+Industry Connections and Career Preparation
+
+One of the strongest advantages of George Brown College is its connection to industry partners across Toronto.
+ Many programs are developed in consultation with employers to ensure students are learning skills that align with current workforce demands.
+
+Work-integrated learning opportunities such as co-op placements, internships, and capstone projects allow students to apply classroom knowledge in professional settings. This approach strengthens technical competence while also building communication, teamwork, and problem-solving skills.
 
 
