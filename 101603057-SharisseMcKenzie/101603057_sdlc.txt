@@ -12,3 +12,10 @@ In the SDLC, the testing phase ensures that software functions correctly and mee
 
 DevOps transforms testing into a continuous process by integrating automated tests within CI/CD pipelines. 
 This allows teams to detect issues early, reduce deployment risks, and maintain consistent software quality throughout development.
+
+
+Deployment and Continuous Monitoring
+
+Deployment in traditional SDLC models often occurs after lengthy development cycles. DevOps encourages smaller, frequent deployments supported by automation tools.
+
+Continuous monitoring ensures that system performance, security, and reliability are maintained after release. Feedback from monitoring helps teams improve future development cycles.
