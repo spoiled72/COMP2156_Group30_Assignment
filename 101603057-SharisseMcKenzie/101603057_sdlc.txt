@@ -1,0 +1,7 @@
+DevOps in the Software Development Life Cycle (SDLC)
+
+The Software Development Life Cycle (SDLC) is a structured process used to design, develop, test, and maintain software systems.
+Traditional SDLC models include stages such as planning, analysis, design, implementation, testing, deployment, and maintenance.
+
+DevOps integrates into the SDLC by promoting continuous collaboration between development and operations teams.
+Instead of treating deployment and maintenance as separate phases, DevOps creates a continuous feedback loop that improves efficiency and system reliability.
