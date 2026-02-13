@@ -1,0 +1,15 @@
+Why is it important to learn and understand the development cycle?
+
+Aspiring DevOps engineers can come from all sorts of backgrounds personal, professional, or educational
+backgrounds - coding, project management, front end/back end development,full-stack, hardware focused, 
+non-computer related fiends, etc. One thing that is universal, however, is how the software development cycle
+operates in real-world, professional settings.
+
+Being familiar with concepts like Continuous Integration (CI) and Continuous Development (CD) are foundational
+for budding DevOps engineers, as they provide the framework for software development through all levels of the 
+develpoment cycle. Every step of develpoment is met with opportunities for IT staff, coders, and management to 
+work together to increase the seamlessness of operations.
+
+Complete integration at all levels of development advance productivity, reduce development times, proper quality assurance,
+bug-fixing and deployment of build updates, etc. When a team operates under DevOps principals, it has been proven to create 
+better professional outcomes.
