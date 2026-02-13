@@ -12,8 +12,7 @@ Owner: Richard Miller Token=Redacted
 - Completed 10+ commits
 - Merged branch into main
 
-Peter Miller (100506939)
-## My Contributions:
+## Peter Miller (100506939) - My Contributions:
 - created 100506930-PMiller branch 
 - created 100506939_gb.txt
 - created 100506939_devops.txt
