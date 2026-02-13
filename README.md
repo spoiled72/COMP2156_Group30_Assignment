@@ -1,15 +1,9 @@
 # COMP2156_Group30_Assignment
 Group Assignment for comp2156. This is due on Sunday, 22nd Feb 2026 (Week06)
-Owner: Richard Miller
 
-## Roseanne Revzen - Student ID: 101587881 - Contributions:  
-- Created `101587881_gb.txt`;
-- Created `101587881_devops.txt`;
-- Created `101587881_sdlc.txt`.
-- Completed 10+ individual version control commits to track progress.
-- Updated README with group member details
-- merged 101587881-revzen branch to main
-- Organized files into individual folder for repository maintenance
+Owner: Richard Miller
+Token=Redacted
+
 
 
 
@@ -22,12 +16,15 @@ Owner: Richard Miller
 - Completed 10+ commits
 - Merged branch into main
 
-## Peter Miller (100506939) - My Contributions:
-- created 100506930-PMiller branch 
-- created 100506939_gb.txt
-- created 100506939_devops.txt
-- created 100506939_sdlc.txt
-- updated peter.txt
-- updated README.md file
-- assisted other group members with setting up branches
-- merged 100506939-PMiller branch with main
+## 100786350 – Olga Livchits
+Contributions:
+- Created my personal folder: 100786350-Olga (main branch)
+- Added my files to the repository:
+  - 100786350_devops.txt
+  - 100786350_gb.txt
+  - 100786350_sdlc.txt
+  - olga.txt (edited)
+- Updated the README with my section
+
+
+
