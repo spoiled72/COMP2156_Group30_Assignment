@@ -18,12 +18,12 @@ Token=Redacted
 
 ## 100786350 – Olga Livchits
 Contributions:
-- Created my personal folder: 100786350-Olga (main branch)
+- Created my personal folder: 100786350-Olga 
 - Added my files to the repository:
-  - 100786350_devops.txt
-  - 100786350_gb.txt
-  - 100786350_sdlc.txt
-  - olga.txt (edited)
+- 100786350_devops.txt
+- 100786350_gb.txt
+- 100786350_sdlc.txt
+- olga.txt (edited)
 - Updated the README with my section
 
 
