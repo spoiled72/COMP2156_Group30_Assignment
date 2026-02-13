@@ -1,8 +1,8 @@
 # COMP2156_Group30_Assignment
 Group Assignment for comp2156. This is due on Sunday, 22nd Feb 2026 (Week06)
 Owner: Richard Miller
-## Roseanne Revzen - Student ID: 101587881 - Contributions: 
-- Created three core documentation files: 
+
+## Roseanne Revzen - Student ID: 101587881 - Contributions:  
 - Created `101587881_gb.txt`;
 - Created `101587881_devops.txt`;
 - Created `101587881_sdlc.txt`.
@@ -11,7 +11,7 @@ Owner: Richard Miller
 - merged 101587881-revzen branch to main
 - Organized files into individual folder for repository maintenance
 
-Owner: Richard Miller Token=Redacted
+
 
 - Sharisse McKenzie (101603057)
 ## Contribution - Sharisse McKenzie
