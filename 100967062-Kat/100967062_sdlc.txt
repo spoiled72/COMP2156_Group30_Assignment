@@ -2,4 +2,4 @@ We love to know things about DevOps engineering and software development cycles.
 If you think about it, we're all engineers of our own lives.
 We all go through cycles.
 We all develop operations.
-Learning is a continuous journey
+Learning is a continuous journey.
