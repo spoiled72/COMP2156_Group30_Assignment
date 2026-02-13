@@ -4,4 +4,4 @@ DevOps practices help teams work faster and more efficiently.
 Students learn how to use pipelines to automate builds and tests.
 The course introduces basic cloud and deployment concepts.
 DevOps helps reduce downtime and improve system reliability.
-
+The course also explains the importance of documentation and collaboration tools.
