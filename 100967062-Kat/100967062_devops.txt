@@ -1,0 +1,4 @@
+This course is COMP 2156
+It is a class about DevOps
+For this class we do assignments and stuff.
+Yep.
