@@ -1,0 +1,4 @@
+DevOps is important in the software development life cycle.
+It helps teams deploy faster and reduce errors.
+Automation and collaboration improve software quality.
+
