@@ -14,6 +14,8 @@ Owner: Richard Miller Token=Redacted
 - merged 100506939-PMiller branch with main
 - several commits
 
+---
+
 - Sharisse McKenzie (101603057)
 ## Contribution - Sharisse McKenzie
 - Created DevOps file
