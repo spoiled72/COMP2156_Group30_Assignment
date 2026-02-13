@@ -1,0 +1,21 @@
+{
+  "name": "COMP2156_Group30_Assignment",
+  "version": "1.0.0",
+  "description": "Project repo to learn git commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test required for this assiggnment\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spoiled72/COMP2156_Group30_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/spoiled72/COMP2156_Group30_Assignment/issues"
+  },
+  "homepage": "https://github.com/spoiled72/COMP2156_Group30_Assignment#readme"
+}
