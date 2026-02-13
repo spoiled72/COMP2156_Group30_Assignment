@@ -1,4 +1,4 @@
-COMP2156 introduces DevOps concepts for system administration.
-It focuses on automation, version control and CI tools.
-The course helps students understand real DevOps workflows.
+The course teaches how to use Git and GitHub for version control.
+Students learn how continuous integration helps automate testing and builds.
+DevOps practices help teams work faster and more efficiently.
 
