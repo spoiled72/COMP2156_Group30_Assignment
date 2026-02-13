@@ -4,4 +4,5 @@ Continuous delivery helps release software more frequently and safely.
 DevOps supports faster feedback during development and testing.
 Monitoring helps teams detect problems early in production.
 Version control helps manage changes during the SDLC.
+Security practices can be integrated into DevOps to support DevSecOps.
 
