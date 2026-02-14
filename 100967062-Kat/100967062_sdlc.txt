@@ -3,3 +3,5 @@ If you think about it, we're all engineers of our own lives.
 We all go through cycles.
 We all develop operations.
 Learning is a continuous journey.
+
+Understanding DevOps in the software development cycle helps with avoiding losing files through simultaneous revisions. Version tracking is critical, and can also help with accountability.
