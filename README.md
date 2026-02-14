@@ -1,8 +1,13 @@
 # COMP2156_Group30_Assignment
 Group Assignment for comp2156. This is due on Sunday, 22nd Feb 2026 (Week06)
 Owner: Richard Miller
-
-##
+HEAD
+--Token=Redacted
+--Richard Miller added his files.
+--Richard created this reopsitory and is the owner!
+--Added 101589060.gb.txt
+--Added 101589060.DevOps.txt
+--Added 101589060.sdlc.txt
 
 ## Roseanne Revzen - Student ID: 101587881 - Contributions:  
 - Created `101587881_gb.txt`;
