@@ -2,6 +2,5 @@ Introduction to DevOps (COMP 2156)
 
 DevOps is a combination of development and operations practices that aim to improve collaboration, automation, and efficiency in software delivery.
 The COMP 2156 DevOps course introduces students to version control systems such as Git and GitHub, continuous integration tools, and automation techniques used in modern IT environments.
-
 The course emphasizes real-world workflows including branching strategies, merging, pull requests, and CI/CD pipelines.
- These practices help teams reduce deployment errors and increase productivity.
+These practices help teams reduce deployment errors and increase productivity.

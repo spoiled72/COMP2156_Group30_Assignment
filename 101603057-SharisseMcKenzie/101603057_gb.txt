@@ -1,22 +1,17 @@
-George Brown College is a public college located in Toronto, Ontario, with three campus. It was established in 1967, the same year Ontario’s public college system was created. The college was named after George Brown, who is known in history as one of the Fathers of Confederation. George Brown founded the Globe, which we now know as the Globe and Mail. It is said that he strongly supported accessible public education in Canada.
-
+George Brown College is a public college located in Toronto, Ontario, with three campus. It was established in 1967, the same year Ontario’s public college system was created. The college was named after George Brown, who is known in history as one of the Fathers of Confederation.
+George Brown founded the Globe, which we now know as the Globe and Mail. It is said that he strongly supported accessible public education in Canada.
 As a college, George Brown focuses on career-driven and applied education. Unlike many post secondary education that emphasize theoretical research, George Brown is known for hands-on training, industry partnerships, and practical experience. Many programs include co-op placements, field education, or lab-based learning designed to prepare students directly for the workforce.
-
 The college offers diploma, advanced diploma, certificate, postgraduate, and degree programs across areas such as technology, business, health sciences, hospitality, and community services. Its St. James, Waterfront, and Casa Loma campuses are located in Toronto’s downtown core, giving students access to one of Canada’s largest employment markets.
-
-George Brown’s Centre for Hospitality and Culinary Arts is internationally recognized, and many successful chefs such as Chef Roger(renowned Canadian Chef and TV host), Stephen Wong(award-winning chef and restaurateur) and hospitality professionals began their careers through this program. This reflects the college’s strong reputation for producing job-ready graduates in specialized industries.
-
-
+George Brown’s Centre for Hospitality and Culinary Arts is internationally recognized, and many successful chefs such as Chef Roger(renowned Canadian Chef and TV host), Stephen Wong(award-winning chef and restaurateur) and hospitality professionals began their careers through this program.
+This reflects the college’s strong reputation for producing job-ready graduates in specialized industries.
 As a student in the Computer Systems Technology program, George Brown College has provided me with practical, hands-on experience in networking, system administration, and DevOps tools. The labs and group assignments simulate real industry workflows, which helps build both technical skills and collaboration abilities.
-
 The focus on applied learning prepares students not only to understand concepts, but to implement them in real-world environments using tools such as Git, GitHub, virtualization software, and automation technologies.
 
 
 Industry Connections and Career Preparation
-
 One of the strongest advantages of George Brown College is its connection to industry partners across Toronto.
- Many programs are developed in consultation with employers to ensure students are learning skills that align with current workforce demands.
-
-Work-integrated learning opportunities such as co-op placements, internships, and capstone projects allow students to apply classroom knowledge in professional settings. This approach strengthens technical competence while also building communication, teamwork, and problem-solving skills.
+Many programs are developed in consultation with employers to ensure students are learning skills that align with current workforce demands.
+Work-integrated learning opportunities such as co-op placements, internships, and capstone projects allow students to apply classroom knowledge in professional settings. 
+This approach strengthens technical competence while also building communication, teamwork, and problem-solving skills.
 
 
