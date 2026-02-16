@@ -1,7 +1,7 @@
 # COMP2156_Group30_Assignment
 Group Assignment for comp2156. This is due on Sunday, 22nd Feb 2026 (Week06)
 
-##Owner: Richard Miller
+## Owner: Richard Miller
 - Token=Redacted
 - Richard Miller added his files.
 - Added 101589060.gb.txt
@@ -29,6 +29,7 @@ Group Assignment for comp2156. This is due on Sunday, 22nd Feb 2026 (Week06)
 - assisted other group members with setting up branches
 - merged 100506939-PMiller branch with main
 - several commits
+- added required screenshots to group document
 
 ## Contribution - Sharisse McKenzie
 - Created DevOps file
