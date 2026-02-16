@@ -1,0 +1,12 @@
+Course 2156 - DevOps for System Administration - is a fourth-semester offering for the 
+T141, T147, T187, and T191 Computer Systems programs offered via George Brown Polytechnic.
+
+This course aims to provide students with the foundational knowledge of the procedures, protocols, 
+and best practices that budding DevOps engineers need to know to assure proper etiquecies and professional
+expectations withing the workforce. DevOps standards are designed to increase workplace productivity 
+by utilizing Continuous Integration (CI) and Continuous Development (CD) principals to ensure
+a fluid production of application development and deployment.
+
+As part of the DevOps course, students learn about data format types (i.e., Extensible Markup Language [XML], JavaScript 
+Object Notation [JSON], Yet Another Markup Language [YAML]) and their value in information technologies implementations 
+such as network automation.
