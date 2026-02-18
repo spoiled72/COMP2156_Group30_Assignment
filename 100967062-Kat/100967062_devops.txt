@@ -1,0 +1,8 @@
+This course is COMP 2156
+It is a class about DevOps
+For this class we do assignments and stuff.
+Yep.
+
+Below is something interesting that might appeal to those who enjoy using git, github, and git-associated DevOps-focused things:
+
+https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a
