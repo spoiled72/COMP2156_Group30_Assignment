@@ -1,4 +1,16 @@
-wow, I am blown away! DevOps has been amazing.
-I love learning about repositories, group assignments and lolaboration!
-I am really looking forward in developing my skills and my understanding in continuing my 
-journey!
+
+
+COMP 2156 DevOps for System Administration focuses on integrating development and operations 
+to improve collaboration, automation, and system reliability. The course introduces core DevOps principles 
+including continuous integration (CI), continuous deployment (CD), infrastructure as code, 
+version control using Git, and automated testing.
+
+Students learn how to use tools such as GitHub, Linux command line, scripting, 
+and CI/CD pipelines to automate deployment processes. The course emphasizes collaboration 
+through branching strategies, pull requests, and version control workflows.
+
+DevOps encourages a culture of shared responsibility between development and operations teams. 
+This reduces deployment failures, shortens release cycles, and improves overall system performance.
+
+Through hands-on labs and group assignments, students practice real-world DevOps workflows 
+that reflect modern industry standards.
